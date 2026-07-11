@@ -1,4 +1,6 @@
 {
-  "version": "2.0.0.3",
-  "installer_url": "https://diterh.github.io/AgenteCMSPro-updates/AgenteCMSPro-Setup.exe"
+  "version": "2.0.0.4",
+  "installer_url": "https://diterh.github.io/AgenteCMSPro-updates/AgenteCMSPro-Setup.exe",
+  "engine_url": "https://diterh.github.io/AgenteCMSPro-updates/AgenteCMSPro-Setup-Engine.exe",
+  "note": "Ejecutar AgenteCMSPro-Setup.exe junto al Engine (TEMP bajo Program Files AgenteCMSPro)"
 }
