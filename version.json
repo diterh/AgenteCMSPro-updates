@@ -1,5 +1,4 @@
 {
-  "version": "2.0.0.2",
-  "installer_url": "https://diterh.github.io/AgenteCMSPro-updates/AgenteCMSPro-Setup.exe",
-  "package_url": "https://diterh.github.io/AgenteCMSPro-updates/AgenteCMSPro-Update.zip"
+  "version": "2.0.0.3",
+  "installer_url": "https://diterh.github.io/AgenteCMSPro-updates/AgenteCMSPro-Setup.exe"
 }
